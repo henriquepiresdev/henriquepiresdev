@@ -33,9 +33,10 @@ Meu Objetivo atual é trabalhar com desenvolvimento front-end ou full-stack, e e
 <code><img height="20" src="https://img.icons8.com/plasticine/100/000000/react.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/javascript--v1.png"></code>
 <code><img height="20" src="https://img.icons8.com/fluency/48/000000/node-js.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/postgreesql.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/css3.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/html-5--v1.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/postgreesql.png"></code>
+
 
  **Atualmente**
  
