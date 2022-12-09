@@ -25,7 +25,7 @@ Meu Objetivo atual é trabalhar com desenvolvimento front-end ou full-stack, e e
   - 💬 Me pergunte oque quiser, ficarei feliz em ajudar no que puder;
 
 
-  <img align="right" alt="GIF" src="https://media4.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47a7v5pssmfeqju0v1tohncpxk0rr1kn51m3fotc82&rid=giphy.gif&ct=g" width="490" height="380" />
+  <img align="right" alt="GIF" src="https://media4.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47a7v5pssmfeqju0v1tohncpxk0rr1kn51m3fotc82&rid=giphy.gif&ct=g" width="450" height="380" />
   
   
   <h3>Front-End</h3>
