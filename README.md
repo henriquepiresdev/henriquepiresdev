@@ -17,38 +17,67 @@ Motivação para transição de carreira:
 No ano de 2022 avisei que estava saindo dos negócios da familia, sai da empresa e estou me dedicando apenas aos estudos, comecei na kenzie em março de 2022 , em apenas alguns meses me sinto realizado e tenho certeza que fiz a escolha certa, me desenvolvi muito, e finalmente posso utilizar a lógica com objetivo, sempre gostei de resolver problemas e nesse ambito é só oque eu tenho feito até hoje.
 
 Meu Objetivo atual é trabalhar com desenvolvimento front-end ou full-stack, e em paralelo conseguir estudar desenvolvimento de jogos, trabalhar em uma empresa que valoriza a criatividade e dedicação, no futuro trabalhar em uma empresa de jogos, ja que pra mim eles são demais, onde podemos exercer toda nossa criatividade sem limites, tudo fica mais lindo quando é gameficado.
+<br/>
 
-
-  <img align="right" alt="GIF" src="https://media4.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47a7v5pssmfeqju0v1tohncpxk0rr1kn51m3fotc82&rid=giphy.gif&ct=g" width="490" height="320" />
   
   - 💼 Deseja entrar em contato ? henrique.piresbezerra1312@gmail.com
   
   - 💬 Me pergunte oque quiser, ficarei feliz em ajudar no que puder;
+
+
+  <img align="right" alt="GIF" src="https://media4.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47a7v5pssmfeqju0v1tohncpxk0rr1kn51m3fotc82&rid=giphy.gif&ct=g" width="490" height="380" />
   
+  
+  <h3>Front-End</h3>
+  <div>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/React-136f63?style=for-the-badge&logo=react&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/Next_JS-white?style=for-the-badge&logo=next.js&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=react-hook-form&labelColor=1D1D1D" />
+  </div>
+  <h3>Back-End</h3>
+  <div>
+    <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/Type_ORM-101010?style=for-the-badge&logo=typeorm&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/DJango-092E20?style=for-the-badge&logo=django&logoColor=092E20&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/SQ_Lite-003B57?style=for-the-badge&logo=sqlite&logoColor=003B57&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/Mongo_DB-47A248?style=for-the-badge&logo=mongodb&labelColor=1D1D1D" />
+  </div>
+</div>
 
-**Linguagens e ferramentas:**  
+<h3>Skills</h3>
 
+<img align="right" src="./dacing.gif"/>
 
-<code><img height="20" src="https://img.icons8.com/fluency/48/000000/typescript.png"></code>
-<code><img height="20" src="https://img.icons8.com/plasticine/100/000000/react.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/javascript--v1.png"></code>
-<code><img height="20" src="https://img.icons8.com/fluency/48/000000/node-js.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/postgreesql.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/css3.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/html-5--v1.png"></code>
+<div align="left">
+  <div>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=C21325&labelColor=1D1D1D" />
+  </div>
+
+  <br/>
+ 
 
 
  **Atualmente**
  
  ⏰- Trabalho: em busca de oportunidade.
 
- 📚- Estudos:  desenvolvimento web full-stack. | nodeJs express |
+ 📚- Estudos:  desenvolvimento web full-stack. | Python / DJANGO |
 
  🎮 -Lazer:    Video games e passeios com a familia.
  
  
-
-
 
 
 
