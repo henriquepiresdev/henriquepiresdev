@@ -35,8 +35,8 @@ Meu Objetivo atual é trabalhar com desenvolvimento front-end ou full-stack, e e
     <img src="https://img.shields.io/badge/React-136f63?style=for-the-badge&logo=react&labelColor=1D1D1D" />
     <img src="https://img.shields.io/badge/Next_JS-white?style=for-the-badge&logo=next.js&labelColor=1D1D1D" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&labelColor=1D1D1D" />
-    <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&labelColor=1D1D1D" />
     <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&labelColor=1D1D1D" />
+    <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&labelColor=1D1D1D" />
     <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=react-hook-form&labelColor=1D1D1D" />
   </div>
   <h3>Back-End</h3>
