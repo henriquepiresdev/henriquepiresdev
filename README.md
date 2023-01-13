@@ -65,9 +65,9 @@ Ola, me chamo Henrique sou desenvolvedor Full-stack, seja bem vindo ao meu profi
 
  **Atualmente**
  
- ⏰- Trabalho: em busca de oportunidade.
+ ⏰- Trabalho: Desenvolvedor front-end Wicomm | VTEX IO | ReactJS | GraphQl | GitBucket.
 
- 📚- Estudos:  desenvolvimento web full-stack. | Python / DJANGO |
+ 📚- Estudos:  Amazon Aws. | EC2 / S3  |
 
  🎮 -Lazer:    Video games e passeios com a familia.
  
