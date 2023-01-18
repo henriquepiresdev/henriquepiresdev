@@ -1,86 +1,76 @@
-### Seja Bem vindo!
-<a href="https://www.instagram.com/henr1pires/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DF234F&height=120&section=header"/>
 
-<a href="https://www.linkedin.com/in/henrique-pires-bezerra/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DF234F&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I´m+Henrique+Pires;I'm+32+years+old;I'm+from+Brazil;I'm+a+Full-Stack+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-![](https://visitor-badge.glitch.me/badge?page_id=henriquepiresdev.henriquepiresdev)
+<h2 align="center">Some Tools I Have Used and Learned</h2>
 
-<br />
-Ola, me chamo Henrique sou desenvolvedor Full-stack, seja bem vindo ao meu profile.
-<br/>
-
-  
-  - 💼 Deseja entrar em contato ? henrique.piresbezerra1312@gmail.com
-  
-  - 💬 Me pergunte oque quiser, ficarei feliz em ajudar no que puder;
-
-
-  <img align="right" alt="GIF" src="https://media4.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47a7v5pssmfeqju0v1tohncpxk0rr1kn51m3fotc82&rid=giphy.gif&ct=g" width="450" height="380" />
-  
-  
-  <h3>Front-End</h3>
-  <div>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=1D1D1D" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&labelColor=1D1D1D" />
-    <img src="https://img.shields.io/badge/React-136f63?style=for-the-badge&logo=react&labelColor=1D1D1D" />
-    <img src="https://img.shields.io/badge/Next_JS-white?style=for-the-badge&logo=next.js&labelColor=1D1D1D" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&labelColor=1D1D1D" />
-    <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&labelColor=1D1D1D" />
-    <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&labelColor=1D1D1D" />
-    <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=react-hook-form&labelColor=1D1D1D" />
-  </div>
-  <h3>Back-End</h3>
-  <div>
-    <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&labelColor=1D1D1D" />
-    <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&labelColor=1D1D1D" />
-    <img src="https://img.shields.io/badge/Type_ORM-101010?style=for-the-badge&logo=typeorm&labelColor=1D1D1D" />
-    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&labelColor=1D1D1D" />
-    <img src="https://img.shields.io/badge/DJango-092E20?style=for-the-badge&logo=django&logoColor=092E20&labelColor=1D1D1D" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&labelColor=1D1D1D" />
-    <img src="https://img.shields.io/badge/SQ_Lite-003B57?style=for-the-badge&logo=sqlite&logoColor=003B57&labelColor=1D1D1D" />
-    <img src="https://img.shields.io/badge/Mongo_DB-47A248?style=for-the-badge&logo=mongodb&labelColor=1D1D1D" />
-  </div>
-</div>
-
-<h3>Skills</h3>
-
-<img align="right" src="./dacing.gif"/>
+<img align="right" width="50%" src="https://camo.githubusercontent.com/ca432f19e2ca27f8f2445969aeb6ca3673f9b8d8b3dafc5907dc5ee4454164bf/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f663369774a464f564f777579374b364646772f67697068792e6769663f6369643d6563663035653437613776357073736d6665716a75307631746f686e6370786b307272316b6e35316d33666f74633832267269643d67697068792e6769662663743d67">
 
 <div align="left">
+  <h4>Front-end</h4>
   <div>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&labelColor=1D1D1D" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=1D1D1D" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&labelColor=1D1D1D" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&labelColor=1D1D1D" />
-    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=C21325&labelColor=1D1D1D" />
+    <img  alt="HenryTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img  alt="HenryTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img  alt="HenryTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+    <img  alt="HenryTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img  alt="HenryTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+    <img  alt="HenryTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img  alt="HenryTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   </div>
+  <h4>Back-end</h4>
+  <div>
+    <img  alt="HenryTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img  alt="HenryTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+    <img  alt="HenryTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img  alt="HenryTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+    <img  alt="HenryTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    <img  alt="HenryTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+    <img  alt="HenryTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+    <img  alt="HenryTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+    <img  alt="HenryTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
+    <img  alt="HenryTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  </div>
+  <h4>Other tools</h4>
+  <div>
+    <img  alt="HenryTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    <img  alt="HenryTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+    <img  alt="HenryTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+        <img  alt="HenryTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
+    <img  alt="HenryTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img  alt="HenryTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img  alt="HenryTech" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  </div>
+</div>
 
-  <br/>
- 
+<br>
 
-
- **Atualmente**
- 
- ⏰- Trabalho: Desenvolvedor front-end Wicomm | VTEX IO | ReactJS | GraphQl | GitBucket.
-
- 📚- Estudos:  Amazon Aws. | EC2 / S3  |
-
- 🎮 -Lazer:    Video games e passeios com a familia.
- 
- 
-
-
-
-📈 Meu GitHub Stats
+<h2 align="center">My Github statics</h2>
 
 <div align="center">
-<img width="42%"height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquepiresdev&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" alt="Henrique" />
+  
+  ![visitor badge](https://komarev.com/ghpvc/?username=henriquepiresdev&color=DF234F)
+  
+</div>
 
+ <div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=henriquepiresdev&show_icons=true&count_private=true&hide_border=true&title_color=DF234F&icon_color=DF234F&text_color=c9d1d9&bg_color=0d1117" alt="Henrique Pires github stats" />
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquepiresdev&layout=compact&hide_border=true&title_color=DF234F&text_color=DF234F&bg_color=0d1117" alt="Henrique Pires github stats" />
 </div>
 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.instagram.com/henr1pires/" target="blank">
+   <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="icon-instagram" width="45" align="center"/>
+ </a>
+  <a href="https://www.facebook.com/henrique.piresbezerra" target="blank">
+   <img src="https://img.icons8.com/fluency/48/000000/facebook-circled.png" alt="icon-facebook" width="45" align="center"/>
+ </a>
+ <a href="https://mail.google.com/mail/u/0/#sent?compose=CllgCJqXPjlvnCbRtmQmBnhVMRFhrPzwXzmnHkPwGBqfgKhGctpLSsZftwjBTBnXjdFxmgCQdQB" target="blank">
+   <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="icon-gmail" width="45" align="center"/>
+ </a>
+  <a href="https://www.linkedin.com/in/Henrique-Pires-bezerra/" target="blank">
+   <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="icon-linkedin" width="45" align="center"/>
+ </a>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DF234F&height=120&section=footer"/>
