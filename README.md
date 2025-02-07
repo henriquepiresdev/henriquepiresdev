@@ -52,7 +52,7 @@
 </div>
 
  <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=henriquepiresdev&show_icons=true&count_private=true&hide_border=true&title_color=1E1842&icon_color=1E1842&text_color=c9d1d9&bg_color=0d1117" alt="Henrique Pires github stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=henriquepiresdev&show_icons=true&count_private=true&hide_border=true&title_color=DF234F&icon_color=DF234F&text_color=c9d1d9&bg_color=0d1117" alt="Henrique Pires github stats" />
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquepiresdev&layout=compact&hide_border=true&title_color=1E1842&text_color=1E1842&bg_color=0d1117" alt="Henrique Pires github stats" />
 </div>
 
