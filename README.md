@@ -72,4 +72,4 @@
    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="icon-linkedin" width="45" align="center"/>
  </a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DF234F&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E1842&height=120&section=footer"/>
